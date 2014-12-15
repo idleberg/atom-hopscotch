@@ -20,7 +20,3 @@ Color scheme inspired by the Hopscotch learning platform for kids
 ## License
 
 This work is licensed under the [Creative Commons CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/legalcode).
-
-## Donate
-
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-hopscotch) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
