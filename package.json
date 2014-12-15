@@ -4,7 +4,7 @@
   "version": "1.2.0",
   "description": "Color scheme inspired by the Hopscotch learning platform for kids",
   "repository": "https://github.com/idleberg/atom-hopscotch",
-  "license": "CC0 1.0",
+  "license": "CC0-1.0",
   "author": {
     "name": "Jan T. Sott",
     "url": "http://github.com/idleberg"
