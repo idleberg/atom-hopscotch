@@ -1,5 +1,8 @@
 # Hopscotch for Atom
 
+[![Version](https://img.shields.io/apm/v/hopscotch.svg?style=flat-square)](https://atom.io/themes/hopscotch)
+[![License](https://img.shields.io/apm/l/hopscotch.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
+
 Color scheme inspired by the Hopscotch learning platform for kids 
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/atom-hopscotch/master/preview.png)
