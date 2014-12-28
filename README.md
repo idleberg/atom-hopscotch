@@ -8,6 +8,32 @@ Color scheme inspired by the Hopscotch learning platform for kids
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/atom-hopscotch/master/preview.png)
 
+Also [available](https://github.com/idleberg/Hopscotch) for these apps:
+
+* BBEdit
+* Brackets
+* CodeMirror
+* Emacs
+* Gedit
+* highlight.js
+* IDEA
+* iTerm2
+* Mou
+* Notepad++
+* Prettify.js
+* Prism.js
+* PuTTY
+* Pygments
+* Rainbow
+* Shell
+* Sublime Text
+* Terminal
+* TextMate
+* Vim
+* Visual Studio
+* Windows Command Prompt
+* XCode
+
 ## Installation
 
 ### apm
