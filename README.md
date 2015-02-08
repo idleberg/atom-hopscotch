@@ -26,7 +26,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 * Pygments
 * Rainbow
 * Shell
-* Sublime Text
+* [Sublime Text](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme)
 * Terminal
 * TextMate
 * Vim
