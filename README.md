@@ -38,8 +38,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 ### apm
 
-* Make sure you have [Atom](https://atom.io/) (with apm) installed
-* Install theme `apm install hopscotch`
+* Install theme `apm install hopscotch` or use the GUI
 
 ### GitHub
 
