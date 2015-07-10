@@ -38,7 +38,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 ### apm
 
-* Install theme `apm install hopscotch` or use the GUI
+* Install theme `apm install hopscotch` (or use the GUI)
 
 ### GitHub
 
