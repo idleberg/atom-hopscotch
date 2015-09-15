@@ -1,8 +1,9 @@
 # Hopscotch for Atom
 
-[![Version](https://img.shields.io/apm/v/hopscotch.svg?style=flat-square)](https://atom.io/themes/hopscotch)
+[![apm](https://img.shields.io/apm/l/hopscotch.svg?style=flat-square)](https://atom.io/themes/hopscotch)
+[![apm](https://img.shields.io/apm/v/hopscotch.svg?style=flat-square)](https://atom.io/packages/hopscotch)
+[![apm](https://img.shields.io/apm/dm/hopscotch.svg?style=flat-square)](https://atom.io/packages/hopscotch)
 [![Travis branch](https://img.shields.io/travis/idleberg/atom-hopscotch/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-hopscotch)
-[![License](https://img.shields.io/apm/l/hopscotch.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
 Color scheme inspired by the Hopscotch learning platform for kids 
 
