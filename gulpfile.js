@@ -24,7 +24,7 @@ gulp.task('lesshint', function () {
      gulp.src(['./**/*.less', self])
         .pipe(debug({title: 'lesshint:'}))
         .pipe(lesshint())
-        .pipe(lesshint.reporter()); // Leave empty to use the default, "stylish"
+        .pipe(lesshint.reporter());
 });
 
 // Lint JavaScript files
