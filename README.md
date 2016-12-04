@@ -32,6 +32,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 * TextMate
 * Vim
 * Visual Studio
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.nsis)
 * Windows Command Prompt
 * XCode
 
@@ -41,7 +42,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 * Install theme `apm install hopscotch` (or use the GUI)
 
-### GitHub
+### Using Git
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-hopscotch hopscotch`
