@@ -1,33 +1,45 @@
-// Atom template by Jan T. Sott (https://github.com/idleberg/)
-// Base16 scheme and Base16 Builder by Chris Kempson (https://github.com/chriskempson)
+@import "colors.less";
 
-// This defines all syntax variables that syntax themes must implement when they
-// include a syntax-variables.less file.
+// Official Syntax Variables
 
 // General colors
-@syntax-background-color: #322931;
-@syntax-cursor-color: #b9b5b8;
-@syntax-selection-color: #5c545b;
-@syntax-text-color: #b9b5b8;
+@syntax-text-color:            @very-light-gray;
+@syntax-cursor-color:          @white;
+@syntax-selection-color:       @dark-gray;
+@syntax-selection-flash-color: @very-light-gray;
+@syntax-background-color:      @black;
 
 // Guide colors
-@syntax-indent-guide-color: #797379;
-@syntax-invisible-character-color: #797379;
-@syntax-wrap-guide-color: #797379;
+@syntax-wrap-guide-color:          mix(@gray, @dark-gray);
+@syntax-indent-guide-color:        mix(@gray, @dark-gray);
+@syntax-invisible-character-color: mix(@gray, @dark-gray);
 
 // For find and replace markers
-@syntax-result-marker-color: #797379;
-@syntax-result-marker-color-selected: #b9b5b8;
+@syntax-result-marker-color:          @gray;
+@syntax-result-marker-color-selected: @white;
 
 // Gutter colors
-@syntax-gutter-background-color-selected: rgba(80, 80, 80, 0.33);
-@syntax-gutter-background-color: #322931;
-@syntax-gutter-text-color-selected: #b9b5b8;
-@syntax-gutter-text-color: #b9b5b8;
+@syntax-gutter-text-color:                @gray;
+@syntax-gutter-text-color-selected:       @very-light-gray;
+@syntax-gutter-background-color:          @syntax-background-color;
+@syntax-gutter-background-color-selected: @syntax-selection-color;
 
 // For git diff info. i.e. in the gutter
-// These are static and were not extracted from your textmate theme
-@syntax-color-added: #8fc13e;
-@syntax-color-modified: #fdcc59;
-@syntax-color-removed: #dd464c;
-@syntax-color-renamed: #1290bf;
+@syntax-color-renamed:  @blue;
+@syntax-color-added:    @green;
+@syntax-color-modified: @orange;
+@syntax-color-removed:  @red;
+
+// For language entity colors
+@syntax-color-variable:  @red;
+@syntax-color-constant:  @orange;
+@syntax-color-property:  @syntax-text-color;
+@syntax-color-value:     @green;
+@syntax-color-function:  @blue;
+@syntax-color-method:    @blue;
+@syntax-color-class:     @yellow;
+@syntax-color-keyword:   @purple;
+@syntax-color-tag:       @red;
+@syntax-color-attribute: @orange;
+@syntax-color-import:    @purple;
+@syntax-color-snippet:   @green;
