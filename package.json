@@ -1,7 +1,7 @@
 {
   "name": "hopscotch",
   "theme": "syntax",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Color scheme inspired by the Hopscotch learning platform for kids",
   "repository": "https://github.com/idleberg/atom-hopscotch",
   "license": "CC0-1.0",
